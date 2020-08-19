@@ -9,7 +9,7 @@
         "filp/whoops": "^2.3",
         "hashids/hashids": "^4.0",
         "jeroennoten/laravel-adminlte": "^1.25",
-        "laravel/framework": "5.4.*",
+        "laravel/framework": "5.5.*",
         "laravel/tinker": "~1.0",
         "mcamara/laravel-localization": "^1.3"
     },
